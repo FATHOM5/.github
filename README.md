@@ -1,2 +1,3 @@
-# .github
-Fathom5 (Org Readme)
+# Fathom5
+
+Creating Brilliant Machines at the intersection of AI & Grease.
